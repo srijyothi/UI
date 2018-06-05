@@ -1,0 +1,1 @@
+var talentScreen = angular.module('talentScreen', ['ui.router']);
